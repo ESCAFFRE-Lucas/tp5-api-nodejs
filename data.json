@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "robin",
+      "lastname": "tourne",
+      "email": "robin.tourne@ynov.com",
+      "company": "ynov"
+    },
+    {
+      "id": 2,
+      "firstname": "dmitrii",
+      "lastname": "kopenkin",
+      "email": "dmitrii.kopenkin@ynov.com",
+      "company": "ynov"
+    },
+    {
+      "id": 3,
+      "firstname": "louis",
+      "lastname": "sasse",
+      "email": "dmitrii.kopenkin@ynov.com",
+      "company": "ynov"
+    },
+    {
+      "id": 4,
+      "firstname": "gabriel",
+      "lastname": "cancel",
+      "email": "gabriel.cancel@ynov.com",
+      "company": "ynov"
+    },
+    {
+      "id": 5,
+      "firstname": "antoine",
+      "lastname": "roques",
+      "email": "antoine.roques34@ynov.com",
+      "company": "ynov"
+    },
+    {
+      "id": 6,
+      "firstname": "marc",
+      "lastname": "zuckerberg",
+      "email": "mark.zuck@meta.com",
+      "company": "meta"
+    },
+    {
+      "id": 7,
+      "firstname": "linus",
+      "lastname": "torvald",
+      "email": "linux.forthewin@gmail.com",
+      "company": "linux Corp."
+    },
+    {
+      "id": 8,
+      "firstname": "bjarne",
+      "lastname": "stroustrup",
+      "email": "cpp.ishighlevel@gmail.com",
+      "company": "I Code Better"
+    },
+    {
+      "id": 9,
+      "firstname": "anthony",
+      "lastname": "cavagne",
+      "email": "anthony.cavagne@ynov.com",
+      "company": "Segfault"
+    },
+    {
+      "id": 10,
+      "firstname": "lucas",
+      "lastname": "escaffre",
+      "email": "lucas.escaffre@ynov.com",
+      "company": "segfault"
+    }
+  ],
+  git remote add origin https://git.ytrack.learn.ynov.com/LESCAFFRE1/TP5-API-NodeJs.git
